@@ -1,4 +1,4 @@
-public class StringExample
+public class SringExample
 {	public static void main(String[] args)
 	{	String s1 = "Computer Science";
 		int x = 307;
@@ -23,5 +23,6 @@ public class StringExample
 		System.out.println("s6: " + s6);
 		System.out.println("s7: " + s7);
 		System.out.println("s8: " + s8);
+		System.out.print("Bye");
 	}
-}
+}#program ended
